@@ -1,4 +1,4 @@
-package com.exemple.reactor;
+package com.exemple.reactor.Server;
 
 import java.nio.channels.SelectableChannel;
 import java.nio.channels.SelectionKey;
@@ -8,7 +8,7 @@ import java.util.Map;
 import java.util.Set;
 import java.util.concurrent.ConcurrentHashMap;
 
-import com.exemple.reactor.Handlers.EventHandler;
+import com.exemple.reactor.Server.Handlers.EventHandler;
 
 /*
  * Reactor Pattern

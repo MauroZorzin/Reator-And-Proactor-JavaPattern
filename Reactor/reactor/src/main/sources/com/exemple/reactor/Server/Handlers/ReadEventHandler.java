@@ -1,11 +1,11 @@
-package com.exemple.reactor.Handlers;
+package com.exemple.reactor.Server.Handlers;
 
 import java.nio.ByteBuffer;
 import java.nio.channels.SelectionKey;
 import java.nio.channels.Selector;
 import java.nio.channels.SocketChannel;
 
-import com.exemple.reactor.Utility.MsgCodec;
+import com.exemple.reactor.Server.Utility.MsgCodec;
 
 import lombok.extern.java.Log;
 

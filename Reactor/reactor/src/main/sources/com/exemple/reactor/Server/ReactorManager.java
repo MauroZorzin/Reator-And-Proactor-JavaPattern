@@ -1,10 +1,10 @@
-package com.exemple.reactor;
+package com.exemple.reactor.Server;
 
 import java.net.InetSocketAddress;
 import java.nio.channels.SelectionKey;
 import java.nio.channels.ServerSocketChannel;
 
-import com.exemple.reactor.Handlers.*;
+import com.exemple.reactor.Server.Handlers.*;
 
 import lombok.extern.java.Log;
 

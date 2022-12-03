@@ -1,4 +1,4 @@
-package com.exemple.reactor;
+package com.exemple.reactor.Client;
 
 import java.io.BufferedReader;
 import java.io.DataOutputStream;
